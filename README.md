@@ -18,4 +18,3 @@
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-38B2E8.svg?style=plastic&logo=tailwind-css&logoColor=white" />
 </p>
-
